@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+## Управление проектами и процессами
 
-You can use the [editor on GitHub](https://github.com/konstantin-morenko/masters-project-management/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Преподаватель: *Константин Моренко*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Уровень образования: *магистратура*
 
-### Markdown
+### Учебные материалы
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Лекции
 
-```markdown
-Syntax highlighted code block
+#### Литература по теме
 
-# Header 1
-## Header 2
-### Header 3
+### Реферат
 
-- Bulleted
-- List
+#### Требования к реферату
 
-1. Numbered
-2. List
+Объем реферата: 10-12 страниц.
 
-**Bold** and _Italic_ and `Code` text
+Содержание:
+1. Титульный лист
+2. Оглавление
+3. Основная часть
+4. Заключение
+5. Литература
 
-[Link](url) and ![Image](src)
-```
+В списке литературы должно быть минимум 3 источника.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Оформление текста:
+- шрифт: 14
+- интервал: 1,5
+- отступ абзаца: 1,25 см
 
-### Jekyll Themes
+#### Темы рефератов
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/konstantin-morenko/masters-project-management/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Студенты выбирают тему реферата самостоятельно.  Выбор одинаковых тем несколькими студентами не допускается.
 
-### Support or Contact
+1. Взаимосвязь управления проектами и управления инвестициями
+2. Взаимосвязь между управлением проектами и функциональным менеджментом
+3. Перспективы развития управления проектами
+4. Проектный цикл
+5. Функции и подсистемы управления проектами
+6. Организационные структуры управления проектами
+7. Этапы реализации прединвестиционной фазы
+8. Проектный анализ
+9. Оценка жизнеспособности и финансовой реализуемости проекта
+10. Управление разработкой проектной документации
+11. Принципы построения организационных структур управления проектами
+12. Организационная структура и содержание проекта
+13. Современные методы и средства организационного моделирования проектов
+14. Организационные формы финансирования
+15. Формирование концепции маркетинга проекта
+16. Реализация маркетинга проекта
+17. Управление маркетингом в рамках управления проектами
+18. Основные показатели эффективности проекта
+19. Влияние риска и неопределенности при оценке эффективности проекта
+20. Корпоративная система управления проектами
+21. Управление программами и портфелями проектов
+22. Инновационные проекты
+23. Планирование проекта
+24. Структура разбиения работ
+25. Типичные ошибки планирования и их последствия
+26. Ресурсное планирование
+27. Мониторинг работ по проекту
+28. Управление изменениями
+29. Методы контроля стоимости проекта
+30. Взаимосвязь объектов, продолжительности и стоимости работ
+31. Принципы эффективного управления временем
+32. Формы контроля производительности труда
+33. Менеджмент качества проекта
+34. Процессы управления ресурсами
+35. Формирование и развитие команды
+36. Организационная культура команды проекта
+37. Психологические аспекты управления персоналом
+38. Методы анализа проектных рисков
+39. Организация работ по управлению рисками
+40. Информационная система управления проектами
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Обратная связь
+
+Любая обратная связь со мной: [vim@konstantin-morenko.ru](mailto:vim@konstantin-morenko.ru).
