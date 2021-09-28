@@ -4,10 +4,6 @@
 
 Уровень образования: *магистратура*
 
-Ссылка сюда
-
-![qr-code](qr-code.png)
-
 
 ### Учебные материалы
 
@@ -117,3 +113,9 @@
 ### Обратная связь
 
 Любая обратная связь со мной: [vim@konstantin-morenko.ru](mailto:vim@konstantin-morenko.ru).
+
+
+Ссылка сюда
+
+![qr-code](qr-code.png)
+
