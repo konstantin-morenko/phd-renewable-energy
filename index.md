@@ -80,7 +80,7 @@
 2. [География энергоресурсов](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q002)
 3. [Основные понятия и определения в практике исследования и
    использования возобновляемых видов энергии](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q003)
-4. Параметры возобновляемых видов энергии и методы их измерения
+4. [Параметры возобновляемых видов энергии и методы их измерения](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q004)
 5. Расчета основных категорий потенциала
 6. Современное состояние и перспективы использования возобновляемых
    видов энергии
