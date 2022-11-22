@@ -82,8 +82,7 @@
    использования возобновляемых видов энергии](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q003)
 4. [Параметры возобновляемых видов энергии и методы их измерения](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q004)
 5. Расчета основных категорий потенциала
-6. Современное состояние и перспективы использования возобновляемых
-   видов энергии
+6. [Современное состояние и перспективы использования возобновляемых видов энергии](https://konstantin-morenko.ru/phd-renewable-book/renewable-energy.html#Q006)
 
 
 #### Раздел 2. Принципы использования солнечной энергии 
